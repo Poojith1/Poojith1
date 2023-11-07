@@ -1,6 +1,5 @@
 ### Hi there 👋
-- My hobbies are travelling
-- I am working on Python
+- I am working on Python, AZURE - Data Engineering, Azure - Administrator, Terraform.
 - I would like to collaborate on projects 
 
 <!--
